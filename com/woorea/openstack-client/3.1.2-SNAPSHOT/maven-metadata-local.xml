@@ -7,17 +7,27 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20170117104425</lastUpdated>
+    <lastUpdated>20170117112904</lastUpdated>
     <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>3.1.2-SNAPSHOT</value>
+        <updated>20170117112904</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar.asc</extension>
+        <value>3.1.2-SNAPSHOT</value>
+        <updated>20170117112904</updated>
+      </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>3.1.2-SNAPSHOT</value>
-        <updated>20170117104425</updated>
+        <updated>20170117112904</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>3.1.2-SNAPSHOT</value>
-        <updated>20170117104425</updated>
+        <updated>20170117112904</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
